@@ -1,0 +1,44 @@
+*概要
+StableDiffusion（ステイブルディフュージョン）とは、Stability AIが公開している[[機械学習]]モデルである。
+このモデルを使用して、様々な絵を[[AI]]に描かせることが出来る。
+同種のAI画像生成サービスに劣らない生成能力を持ちながら、オープンソースであり無料かつ無制限で利用することが可能なのが特徴。
+
+Pixivに投稿されているのは生成された画像そのままであったり、生成画像に加筆を加えたものの他、[[レタッチ]]の手段としてStableDiffusionを使った画像なども投稿されている。
+
+加筆修正については[[反反AI]]、[[トレパク]]の記事も参考にされたし。
+
+ただしAIイラストを更に手描きで加工した場合はこの限りではないためトレパク問題などとは切り離して考えるべきという考えもある。
+
+*開発陣
+
+現在は[[FLUX]]に当時の開発者たちの多くが移動したためそちらにリソースが割かれており、SDは本格的な[[AI絵師]]達にとっては[[既に古い過去の遺物となっている>https://note.com/172cm172cm172cm/n/n7fdeaae4a9a6]]説もある。
+
+*動作原理
+
+簡単に言えば意味不明なノイズから徐々に削っていき最終的な絵を完成させる。
+
+[youtube:HfTD5__gZX4]
+【ソニー社内講演】拡散モデルと基盤モデル
+
+※[[Youtube]]には広告収入目当ての [[反AI]] デマ垢もいるため信頼できるチャンネルは吟味しましょう。
+
+**勘違いされやすい点
+一般的に白紙や透過レイヤーをなぞるような人間の行う[[トレパク]]とは仕組みが違う。
+*利用規約
+DreamStudio、または本家Stable Diffusionサービスで生成された画像の著作権は（生成した者の意思に関係なく）CC0 1.0 Universal Public Domain Dedication（著作権なし）となり、営利目的であっても、許可を得ずに複製、改変・翻案、配布、上演・演奏することができる。
+
+ただし、この規約はあくまで本家Stable Diffusionの規約であり、派生モデルには別の規約が存在する場合もあるため注意が必要。
+
+他にも「StableDiffusionオンライン」やNMKD Stable Diffusion GUI」というものもある。
+「StableDiffusionオンライン」でのクレジットは24時間ごとにリセットされる。
+
+*関連イラスト
+[pixivimage:126236634]
+
+*関連項目
+[[AIイラスト]] [[AI拓也]] [[novelAI]]　[[AIイラスト投稿サイト]] [[aibooru]] [[danbooru]] [[ノーベル物理学賞]]
+
+*外部リンク
+-[[Stable Diffusion オンライン>https://stablediffusionweb.com/]]
+-[[Stable Diffusion Web UIとは？使い方まとめ・ダウンロード方法 | 画像生成AI>https://soroban.highreso.jp/article/article-034]]
+-[[NMKD Stable Diffusion GUI - AI Image Generator>https://nmkd.itch.io/t2i-gui]]
